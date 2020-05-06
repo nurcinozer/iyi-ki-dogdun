@@ -24,7 +24,7 @@ p {
     font-size: 16px;
     line-height: 30px;
     margin-bottom: 15px;
-    font-weight: normal
+    font-weight: 500
 }
 
 .img {
@@ -1057,7 +1057,7 @@ p {
 }
 
 .testimonial-area .testimonial-main .testimonial-caption .testimonial-top-cap p {
-    font-weight: 400;
+    font-weight: 500;
     font-style: italic;
     line-height: 1.5;
     font-size: 20px;
@@ -1225,7 +1225,7 @@ p {
 
 .footer-bottom-area .footer-copy-right p {
     color: #707b8e;
-    font-weight: 400;
+    font-weight: 500;
     font-size: 16px;
     line-height: 2;
     margin-bottom: 12px
